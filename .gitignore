@@ -38,8 +38,17 @@ Icon
 .Spotlight-V100
 .Trashes
 
-# Dist Directory
-/dist
+# Main directories and files
+/bower_components
+/design
+/doc
+/src
+API.md
+LICENSE
+README.md
+bower.json
+gulpfile.js
+package.json
 
 # Node modules
 /node_modules
@@ -49,5 +58,3 @@ Icon
 
 # Idea
 /.idea
-
-/bower_components
