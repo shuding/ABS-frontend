@@ -4,9 +4,7 @@ Another Bookstore System.
 
 Built files in `gh-pages` branch, and online demo:
 
-- [Check out the demo (no db connected yet)!](http://quietshu.github.io/ABS-frontend/dist).
-- [Backend APIs](https://github.com/quietshu/ABS-frontend/blob/master/API.md).
-- [Frontend APIs](https://github.com/quietshu/ABS-frontend/blob/master/src/script/apis.js).
+- Check out the [demo](http://quietshu.github.io/ABS-frontend/dist)  (no db connected yet)!
 
 ## Installation
 ### Requirements
@@ -30,6 +28,9 @@ Ensure your preferred web server points towards the `dist` directory.
 
 - APIs instruction can be found in `API.md`.
 - Continue developing backend APIs further by editing `src/script/apis.js`.
+
+- [Backend APIs](https://github.com/quietshu/ABS-frontend/blob/master/API.md).
+- [Frontend APIs](https://github.com/quietshu/ABS-frontend/blob/master/src/script/apis.js).
 
 ## Acknowledgements
 - [RDash](https://github.com/rdash/rdash-angular)
