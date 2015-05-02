@@ -2,9 +2,7 @@
 
 Another Bookstore System.
 
-Built files in `gh-pages` branch, and online demo:
-
-- Check out the [demo](http://quietshu.github.io/ABS-frontend/dist)  (no db connected yet)!
+Built files in `gh-pages` branch, check out the [demo](http://quietshu.github.io/ABS-frontend/dist)  (no db connected yet)!
 
 ## Installation
 ### Requirements
